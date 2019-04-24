@@ -1,95 +1,98 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Joe Miller
+full_name: Joe Miller
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/joemiller/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* I value **efficiency**. Early in my career someone once told me "we can always find money, but we have limited time".
+* I try to be as productive as I can be with my time but as I get older I have learned to value **work-life** balance. I wish I had done this earlier.
+* **Discovery** and **self-learning** are important to me. I'm most happy reading, exploring, and experimenting.
+* A **sense of urgency** and follow-through is important to me in myself and others.
+* As I get older and deeper into my career I aspire to be a **mentor** to others.
+* **communication** is important to me. I strive to be as succinct as possible and always trying find ways to explain complex topics.
+* I love the feeling of being in the "**flow**" with my work. Momentum is important to me and I look for ways to generate it and keep it going.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+* I am **pragmatic**. I will prioritize an approach that delivers value incrementally.
+* I like to have **fun** with the work I'm doing and the people I'm working with. I keep a large collection of memes that I am ready to deploy at any moment.
+* I can be **impatient** due to my focus on efficiency. I'm working on this.
+* I do not like **conflict** and often try to avoid it. This rarely leads to good outcomes though so I'm working on developing better ways to engage and resolve issues early.
+* I will take **command** in stressful situations. I have always worked in 24/7 online internet businesses and seen crazy outages and massive DDoS attacks. They have taught me that you will be OK and it's never as bad as you think it is in the moment.
 
 ## Receiving Feedback & Recognition
 
 How do you best receive feedback, be it positive or negative?
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+* I have taken [the test](https://www.5lovelanguages.com/) and my love language is **words of affirmation**. However I dispute this and assert that my true love language is gifts. I appreciate recognition for a job well done, but if you're my employer I prefer monetary gifts.
+* I prefer to receive negative feedback in private 1-1's. Please ask me first, I may need a moment to take a breath.
 
 ## Work Patterns
 
 What hours do you usually work?
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+* I wake up around 6am PT and work for an hour or two before going to the gym or running. I'm back and working by 9:30 PT and then in the office by 10am PT
+* I try to maintain a consistent **work from home** day on Wednesdays.
+* I am trying to wrap up my work day around 5-6pm PT and then pursue non-work things.
+* Because I've made my hobby my work I will occasionally work in the evening as well. You can ping me on Slack and I will respond if I'm available. If I feel we have a good rapport I may ping you on Slack after hours as well, especially if I'm excited by something I'm working on, but I never ever expect anyone to be working after-hours so don't feel obligated to respond.
+
+When do you prefer to work alone, versus in groups?
+
+* Planning and making TODO lists as a **group** is my ideal.
+* I am not good at pair programming but I enjoy pairing up at the early stage of **planning** and discussing **approaches** to solving a problem. After we have an idea on how to tackle the problem and have created a list of work I prefer to divide the work and work individually.
+* I generally learn best **alone** where I am free to move at my own pace.
+
+How do your energy levels fluctuate throughout the day?
+
+* I tend to have a lot of energy in the **mornings**.
+* I think my energy level stays fairly constant throughout the day. (exception: if I overate at lunch I'll probably be drained for a couple hours)
+* Pair-programming and talking for many hours drains me. If I spend a day pairing I will be completely drained by 3-4pm.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
-
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+* I prefer you contact me on **Slack**.
+* I declared **email bankruptcy** several years ago. Email is not the best way to contact me. I do not have a consistent pattern for when I read email but it is generally only once or twice per day.
+* If I'm in the office with headphones on and it looks like I'm really into what I'm listening to it probably means I've found **momentum**. Please ping me on Slack.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+* When I become **pedantic** I have likely become emotional and tunnel-visioned on something unimportant.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+* I just need time to step back and think. I usually realize I am being unreasonable but it takes time.
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+* My style of humor is often **sarcastic**. This can come off as negative when I don't intend it to be, especially when this happens on text-based mediums like Slack.
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
-
-## Career Goals & Future Interests
-
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
-
-## Areas for Development
-
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+* I have a low tolerance for **pedancy**. This is a quality I sometimes engage in myself and always regret it.
+* I do not like when engineers' jump to a conclusion about a system or past decisions that they have not taken the time to understand or empathize with.
+* I do not like when people are negative about other engineers, eg: "what the hell were those idiots thinking?"
+* Meetings without outcomes / decisions.
+* Programming language zealots.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+* Containers - cgroups, seccomp, Docker, Kubernetes, whatever!
+* PKI / TLS. Early in my career I was fortunate enough to work on building a public CA. This exposed me to some interesting nerdy stuff.
+* My [dotfiles](https://github.com/joemiller/dotfiles) or my editor setup (NeoVim and VSCode). I'm obsessed with my making work environment efficient.
+* Wine / Beer / Cocktails. I'm not an expert but I'll happily chat about them.
+* The "SEE" method for technical writing.
+* Politics, current events. I read a lot of news and was a history major for a short time.
