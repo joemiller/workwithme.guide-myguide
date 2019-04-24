@@ -96,3 +96,4 @@ reactions._
 * Wine / Beer / Cocktails. I'm not an expert but I'll happily chat about them.
 * The "SEE" method for technical writing.
 * Politics, current events. I read a lot of news and was a history major for a short time.
+* Stocks, bonds, options, and futures. I know what a "SPOOS" is and have traded it before.
