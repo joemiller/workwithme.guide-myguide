@@ -13,21 +13,21 @@ github_url: https://github.com/joemiller/workwithme.guide-myguide/
 
 ## Values
 
-* I value **efficiency**. Early in my career someone once told me "we can always find money, but we have limited time".
-* I try to be as productive as I can be with my time but as I get older I have learned to value **work-life** balance. I wish I had done this earlier.
+* I value **efficiency**. Someone once told me "we can always find money, but we have limited time".
+* I value **work-life** balance.
 * **Discovery** and **self-learning** are important to me. I'm most happy reading, exploring, and experimenting.
 * A **sense of urgency** and follow-through is important to me in myself and others.
-* As I get older and deeper into my career I aspire to be a **mentor** to others.
+* I aspire to be a **mentor** to others.
 * **communication** is important to me. I strive to be as succinct as possible and always trying find ways to explain complex topics.
 * I love the feeling of being in the "**flow**" with my work. Momentum is important to me and I look for ways to generate it and keep it going.
 
 ## Personality
 
-* I am **pragmatic**. I will prioritize an approach that delivers value incrementally.
+* I am **pragmatic**. I will prioritize the approach that delivers value incrementally.
 * I like to have **fun** with the work I'm doing and the people I'm working with. I keep a large collection of memes that I am ready to deploy at any moment.
 * I can be **impatient** due to my focus on efficiency. I'm working on this.
 * I do not like **conflict** and often try to avoid it. This rarely leads to good outcomes though so I'm working on developing better ways to engage and resolve issues early.
-* I will take **command** in stressful situations. I have always worked in 24/7 online internet businesses and seen crazy outages and massive DDoS attacks. They have taught me that you will be OK and it's never as bad as you think it is in the moment.
+* I will take **command** in stressful situations. I have always worked in 24/7 online internet businesses and I have seen crazy outages and massive DDoS attacks. They have taught me that you will be OK and it's never as bad as you think it is in the moment.
 
 ## Receiving Feedback & Recognition
 
@@ -43,7 +43,7 @@ What hours do you usually work?
 * I wake up around 6am PT and work for an hour or two before going to the gym or running. I'm back and working by 9:30 PT and then in the office by 10am PT
 * I try to maintain a consistent **work from home** day on Wednesdays.
 * I am trying to wrap up my work day around 5-6pm PT and then pursue non-work things.
-* Because I've made my hobby my work I will occasionally work in the evening as well. You can ping me on Slack and I will respond if I'm available. If I feel we have a good rapport I may ping you on Slack after hours as well, especially if I'm excited by something I'm working on, but I never ever expect anyone to be working after-hours so don't feel obligated to respond.
+* Because I've made my hobby my work I will occasionally work in the evening as well. You can ping me on Slack and I will respond if I'm available. I may ping you on Slack after hours as well, especially if I'm excited by something I'm working on, but I never ever expect anyone to be working after-hours so don't feel obligated to respond.
 
 When do you prefer to work alone, versus in groups?
 
@@ -73,16 +73,11 @@ How do your energy levels fluctuate throughout the day?
 
 * I just need time to step back and think. I usually realize I am being unreasonable but it takes time.
 
-## Me Being Me
-
-* My style of humor is often **sarcastic**. This can come off as negative when I don't intend it to be, especially when this happens on text-based mediums like Slack.
-
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-* I have a low tolerance for **pedancy**. This is a quality I sometimes engage in myself and always regret it.
 * I do not like when engineers' jump to a conclusion about a system or past decisions that they have not taken the time to understand or empathize with.
 * I do not like when people are negative about other engineers, eg: "what the hell were those idiots thinking?"
 * Meetings without outcomes / decisions.
